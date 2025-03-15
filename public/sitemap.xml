@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/tags/404/</loc>
+    <loc>https://404.coffee/tags/404/</loc>
     <lastmod>2025-03-15T13:10:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://404.coffee/</loc>
     <lastmod>2025-03-15T13:10:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://404.coffee/categories/</loc>
     <lastmod>2025-03-15T13:10:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/coffee/</loc>
+    <loc>https://404.coffee/tags/coffee/</loc>
     <lastmod>2025-03-15T13:10:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/coffee/</loc>
+    <loc>https://404.coffee/categories/coffee/</loc>
     <lastmod>2025-03-15T13:10:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/feature/</loc>
+    <loc>https://404.coffee/tags/feature/</loc>
     <lastmod>2025-03-15T13:10:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/intro-404-coffee/</loc>
+    <loc>https://404.coffee/posts/intro-404-coffee/</loc>
     <lastmod>2025-03-15T13:10:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://404.coffee/posts/</loc>
     <lastmod>2025-03-15T13:10:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://404.coffee/tags/</loc>
     <lastmod>2025-03-15T13:10:29+08:00</lastmod>
   </url>
 </urlset>
