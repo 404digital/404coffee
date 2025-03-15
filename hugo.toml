@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '404 Coffee'
+
+
+theme = "pehtheme"
+
+[params.author]
+	name = '404老吴'
+	bio = '404 not found!'
+	avatar = '/images/nasa-astronaut-unsplash.jpg'
